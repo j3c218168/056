@@ -1,0 +1,39 @@
+.box-vertikal{
+    padding-top: 150px;
+    float:center;
+    margin-top: -150px;
+    margin-bottom: -800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.strip-vertikal{
+    background-color: #ec9700;
+}
+.text-vertikal{
+    text-align: left;
+    transform: rotate(90deg);
+    text-transform: uppercase;
+    font-size:16px; 
+
+}
+.bg-text-top{
+    background-color: #ec9700;
+}
+.line-vertikal{
+    padding-right: 310px;
+   padding-bottom: 250px;
+    margin-top: -20px;
+    text-align: center;
+    transform: rotate(90deg);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size:12px; 
+    color: #ec9700;
+   
+}
+
+.map{
+    padding-top: 300px;
+    padding-left: 500px;
+    
+}

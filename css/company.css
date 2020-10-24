@@ -1,0 +1,38 @@
+.company-title{
+    font-size: 3em;
+    top: 50px;
+    right: 0px;
+  }
+.subjudul{
+    margin-top: 100px;
+    text-align: right;
+    font-size: 16pt;
+    font-family: Oswald;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-right: 250px;   
+}
+.h6{
+    font-size: 11pt;
+    margin-bottom: -100px;
+}
+.company{
+    padding-top: 200px;
+    margin-bottom: 100px;
+    padding-left: 40px; 
+}
+.palingkanan{
+    margin-top: 100px;
+    padding-right: 20px;
+}
+.bg-company2{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    padding-left: 100px; 
+}
+.bg-company {
+    margin-right: 200px;
+    margin-top: -50px;
+    background-image: url('../img/bg_company.png');
+    background-repeat: no-repeat;
+  }

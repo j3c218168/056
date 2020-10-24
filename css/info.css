@@ -1,0 +1,43 @@
+#sticky-footer {
+    flex-shrink: none;
+  }
+.bg-form{
+ margin-top: 50px;
+  background-color: #2065c5;
+}
+.info-only{
+  text-align: center;
+  color: black;
+  font-size: 16pt;
+  text-transform: uppercase;
+  font-family: Oswald;
+  position: relative;
+  padding-left: 600px;
+
+}
+.left-box{
+  margin-left: 300px;
+  font-family: Oswald;
+  padding-top: 10px;
+  padding-left: 20px;
+  text-align: left;
+  height: 50px;
+  width: 300px;
+  background-color: white;
+}
+.right-box{
+ 
+  font-family: Oswald;
+  padding-top: 10px;
+  padding-left: 20px;
+  text-align: left;
+  margin-top: -50px;
+  margin-left: 600px;
+  height: 50px;
+  width: 300px;
+  background-color: white;
+}
+/* .icon-3{
+  padding-top: -50px;
+  padding-left: 200px;
+} */

@@ -1,0 +1,15 @@
+.recruit-title{
+    font-family: Oswald;
+    font-size: 3em;
+    top: 50px;
+    right: 0px;
+   text-transform: uppercase;
+  }
+
+.bg-recruit{
+    margin-top: -50px;
+    height: 420px;
+    width: 1600px;
+    background-image: url('../img/bg_recruit.png');
+    background-repeat: no-repeat;
+}
